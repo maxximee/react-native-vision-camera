@@ -1,6 +1,6 @@
 {
   "name": "react-native-vision-camera",
-  "version": "4.6.3",
+  "version": "4.6.3-patched",
   "description": "A powerful, high-performance React Native Camera library.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -89,7 +89,7 @@
     "@react-native/eslint-config": "^0.75.4",
     "@react-native/typescript-config": "^0.75.4",
     "@release-it/conventional-changelog": "^8.0.1",
-    "@shopify/react-native-skia": "^1.4.2",
+    "@shopify/react-native-skia": "^1.7.7",
     "@types/react": "^18.3.3",
     "@types/react-native": "^0.73.0",
     "eslint": "^8.46.0",
